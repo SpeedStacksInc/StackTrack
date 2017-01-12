@@ -1,5 +1,5 @@
 # StackTrack
 
-Detail's coming soon...
+Detail's coming soon.
 
 a few more items///
